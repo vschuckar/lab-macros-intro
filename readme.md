@@ -11,3 +11,6 @@
 
 - Record a macro and apply it on all the sheets. Be careful if you have to use relative references or absolute reference in this case.
 - Go through the visual basic editor and remove the lines from the code that are not manipulating the data.
+- Save the excel file with your macro with the *.xlsm extension.
+- Add the excel file to the staging area, commit, and push the file to your fork.
+- Submit the url of your fork to the student platform.
